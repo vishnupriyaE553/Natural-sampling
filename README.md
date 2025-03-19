@@ -1,4 +1,4 @@
-# Natural-sampling
+# Natural-Sampling
 Aim 
 Tools required 
 Program 
