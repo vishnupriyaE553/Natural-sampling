@@ -39,9 +39,6 @@ reconstructed_signal = np.zeros_like(t)
 for i, time in enumerate(sample_times):
 index = np.argmin(np.abs(t - time))
 reconstructed_signal[index:index+pulse_width] = sampled_signal[i]
-https://github.com/LakshyaSrini/Natural-sampling?tab=readme-ov-file
-3/25/25, 7:23 PM
-https://github.com/LakshyaSrini/Natural-sampling?tab=readme-ov-file 2/3
 # Low-pass Filter (optional, smoother reconstruction)
 def lowpass_filter(signal, cutoff, fs, order=5):
 nyquist = 0.5 * fs
