@@ -5,8 +5,8 @@ sampled waveform.
 
 TOOLS REQUIRED:
 
-Software: Google Colab
-Python Libraries: Numpy,Matplotlib
+Software : Google Colab
+Python Libraries : Numpy,Matplotlib
 
 PROGRAM:
 ~~~
