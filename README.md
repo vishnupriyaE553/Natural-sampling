@@ -9,7 +9,7 @@ Software: Google Colab
 Python Libraries: Numpy,Matplotlib
 
 PROGRAM:
-
+~~~
 #Natural sampling
 import numpy as np
 import matplotlib.pyplot as plt
@@ -69,7 +69,7 @@ plt.legend()
 plt.grid(True)
 plt.tight_layout
 plt.show()
-
+~~~
 OUTPUT WAVEFORM:
 
 ![425904542-8ec27dc1-e51d-42a5-8202-da00b362b22f](https://github.com/user-attachments/assets/852d8f8a-11dd-4774-9e1b-aff8b25c91d4)
