@@ -1,3 +1,5 @@
+NATURAL SAMPLING 
+
 AIM:
 
 To study and perform natural sampling of an analog signal using a pulse train and analyze the
